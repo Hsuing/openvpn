@@ -5,6 +5,10 @@ This script will let you setup your own secure VPN server in just a few seconds.
 
 You can also check out [wireguard-install](https://github.com/angristan/wireguard-install), a simple installer for a simpler, safer, faster and more modern VPN protocol.
 
+## wiki
+
+https://wiki.archlinux.org/title/OpenVPN
+
 ## Usage
 
 First, get the script and make it executable:
